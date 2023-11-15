@@ -4,7 +4,7 @@ This is a repository for our paper "Benchmarking Generation and Evaluation Capab
 Models for Instruction Controllable Summarization".
 
 <figure>
-    <img src="instrusum.svg" style="width: 70%; height: auto;">
+    <img src="instrusum.svg" style="width: 50%; height: auto;">
 </figure>
 
 ## Quick Links
@@ -49,7 +49,7 @@ We used 11 LLMs in our evaluation and 4 evaluation protocols:
 - `LLMEval`: pointwise scoring by text completion
 - `LLMScore`: pointwise scoring by model-predicted log-likelihood
 
-In total, we evaluated 40 LLm-based evaluation methods over three quality aspects:
+In total, we evaluated 40 LLM-based evaluation methods over three quality aspects:
 
 | LLM              | LLMRank | LLMCompare | LLMEval | LLMScore |
 |--------------------------|---------|------------|---------|----------|
