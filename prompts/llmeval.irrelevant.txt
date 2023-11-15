@@ -1,0 +1,23 @@
+In this task, you will be provided with a news article, a specific summary requirement, and a summary.
+
+Your task is to rate the quality of the summary with a score from 1 to 5, based on whether it includes any information that is not relevant to the summary requirement. Here, 1 is the least amount of irrelevant information and 5 is the most.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Example Response:
+Evaluation Form (scores ONLY):
+- Irrelevant Information (1-5): 3
+
+Here are the actual article, the summary requirement, and the summary:
+
+Article:
+{{Article}}
+
+Summary Requirement:
+{{Requirement}}
+
+Summary:
+{{SUMMARY}}
+
+Evaluation Form (scores ONLY):
+- Irrelevant Information (1-5):

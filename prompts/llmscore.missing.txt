@@ -1,0 +1,13 @@
+Answer the question based on the following article, a specific summary requirement, and a summary.
+Question: Does the summary omit any crucial information from the article concerning the summary requirement? Crucial information refers to key details or facts that are essential to understanding the article and meeting the summary requirement. (a). Yes. (b). No.
+
+Article:
+{{Article}}
+
+Summary Requirement:
+{{Requirement}}
+
+Summary:
+{{SUMMARY}}
+
+Answer: Yes

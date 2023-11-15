@@ -1,0 +1,13 @@
+Answer the question based on the following article, a specific summary requirement, and a summary.
+Question: Is the summary of good overall quality in relation to both the article and the summary requirement? (a). Yes. (b). No.
+
+Article:
+{{Article}}
+
+Summary Requirement:
+{{Requirement}}
+
+Summary:
+{{SUMMARY}}
+
+Answer: Yes

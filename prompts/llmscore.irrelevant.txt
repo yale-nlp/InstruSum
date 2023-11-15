@@ -1,0 +1,13 @@
+Answer the question based on the following article, a specific summary requirement, and a summary.
+Question: Does the summary include any information that is not relevant to the summary requirement? (a). Yes. (b). No.
+
+Article:
+{{Article}}
+
+Summary Requirement:
+{{Requirement}}
+
+Summary:
+{{SUMMARY}}
+
+Answer: Yes
