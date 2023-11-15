@@ -3,8 +3,8 @@
 This is a repository for our paper "Benchmarking Generation and Evaluation Capabilities of Large Language
 Models for Instruction Controllable Summarization".
 
-<figure>
-    <img src="instrusum.svg" style="width: 50%; height: auto;">
+<figure style="text-align: center;">
+    <img src="instrusum.svg" style="width: 40%; height: auto;">
 </figure>
 
 ## Quick Links
