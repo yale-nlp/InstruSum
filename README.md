@@ -1,7 +1,7 @@
 # InstruSum
 
-This is a repository for our paper "Benchmarking Generation and Evaluation Capabilities of Large Language
-Models for Instruction Controllable Summarization".
+This is a repository for our paper ["Benchmarking Generation and Evaluation Capabilities of Large Language
+Models for Instruction Controllable Summarization"](https://arxiv.org/abs/2311.09184).
 
 <figure style="text-align: center;">
     <img src="instrusum.svg" style="width: 40%; height: auto;">
